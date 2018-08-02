@@ -1151,7 +1151,7 @@ footer #go-top a:hover {
 	font: 15px/24px "raleway-heavy", sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 2.5px;
-	color: #252525;
+	color: #ecf0f1;
 	margin-bottom: 18px;
 }
 .section-head h1 span {
@@ -1208,7 +1208,7 @@ footer #go-top a:hover {
 	text-align: left;
 }
 .entry header h1 {	
-	font: 30px/36px "raleway-bold", sans-serif;
+	font: 80px/86px "raleway-bold", sans-serif;
 	margin-bottom: 6px;
 }
 .entry header h1 a {
@@ -1261,7 +1261,7 @@ footer #go-top a:hover {
 	border-radius: 3px;
 	border: 3px solid #f26522;
 	font-family: 'FontAwesome';
-	font-size: 16px;
+	font-size: 26px;
 	padding: 21px 15px;
 	-moz-transition: all 0.3s ease-in-out;
 	-o-transition: all 0.3s ease-in-out;
