@@ -47,7 +47,7 @@
 		var y = $(window).scrollTop();
       var header = $('#main-header');
 
-	   if ((y > h + 30 ) && ($(window).outerWidth() > 768 ) ) {
+	   if ((y > h + 30 ) && ($(window).outerWidth() > 900 ) ) {
 	      header.addClass('opaque');
 	   }
       else {
